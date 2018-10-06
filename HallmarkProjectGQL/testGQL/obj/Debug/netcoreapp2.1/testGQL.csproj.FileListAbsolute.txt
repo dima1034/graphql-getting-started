@@ -1,0 +1,14 @@
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\bin\Debug\netcoreapp2.1\testGQL.deps.json
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\bin\Debug\netcoreapp2.1\testGQL.runtimeconfig.json
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\bin\Debug\netcoreapp2.1\testGQL.runtimeconfig.dev.json
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\bin\Debug\netcoreapp2.1\testGQL.dll
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\bin\Debug\netcoreapp2.1\testGQL.pdb
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.csprojAssemblyReference.cache
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.csproj.CoreCompileInputs.cache
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.RazorAssemblyInfo.cache
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.RazorAssemblyInfo.cs
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.AssemblyInfoInputs.cache
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.AssemblyInfo.cs
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.RazorTargetAssemblyInfo.cache
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.dll
+C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL\testGQL\obj\Debug\netcoreapp2.1\testGQL.pdb

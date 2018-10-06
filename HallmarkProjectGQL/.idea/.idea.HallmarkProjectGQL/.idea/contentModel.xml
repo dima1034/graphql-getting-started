@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dosta\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_HallmarkProjectGQL.-1291586898.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dosta\Desktop\graphql-getting-started\HallmarkProjectGQL" t="IncludeFlat">
+      <e p="HallmarkProjectGQL.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="testGQL" t="IncludeRecursive">
+        <e p=".babelrc" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BL" t="Include">
+          <e p="Item.cs" t="Include" />
+        </e>
+        <e p="ClientApp" t="Include">
+          <e p="app.css" t="Include" />
+          <e p="app.js" t="Include" />
+        </e>
+        <e p="gql" t="Include">
+          <e p="GqlRequest.cs" t="Include" />
+          <e p="HelloWorldQuery.cs" t="Include" />
+          <e p="HelloWorldSchema.cs" t="Include" />
+        </e>
+        <e p="middleware" t="Include">
+          <e p="GqlMiddleware.cs" t="Include" />
+          <e p="GqlMiddlewareForAsp.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="testGQL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="testGQL.csproj" t="IncludeRecursive" />
+        <e p="webpack.config.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="bundle.js" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="style.css" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+.idea
+.vscode
+.vs
+npm-debug.log
+survey.config.json
+node_modules
+tslint_errors
+*.iml
+
